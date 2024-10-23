@@ -1,0 +1,29 @@
+.nav {
+    position: fixed; 
+    left: 0;
+    top: 0;
+    width: 200px; 
+    height: 100vh; 
+    background-color: #f8f8f8; 
+    display: flex;
+    align-items: center; 
+    justify-content: center; 
+    box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1); 
+    padding: 20px; 
+    box-sizing: border-box; 
+  }
+  
+  .nav-content {
+    text-align: left; 
+  }
+  
+  .nav-name {
+    font-size: 1.5em; 
+    margin: 0 0 10px 0; 
+  }
+  
+  .nav-email {
+    font-size: 1em; 
+    margin: 0; 
+  }
+  
